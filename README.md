@@ -1,16 +1,67 @@
-<h1 align="center">Hi 👋, I'm Vyshnavi Kamireddy</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+# 👋 Hi, I'm **Vyshnavi Kamireddy**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavi-kamireddy&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavi-kamireddy" /> </p>
+## 📌 About Me  
+Hey there! I'm **Vyshnavi**, a **second-year Computer Science student** at **Vishnu Institute of Technology**, focused on **solving problems, building projects**, and constantly **learning new technologies**. I’m passionate about turning ideas into code and enjoy exploring both **frontend and backend development**. Let's connect and collaborate!
 
-- 📫 How to reach me **vyshnavikamireddy@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vyshnavi-kamireddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vyshnavi-kamireddy/" height="30" width="40" /></a>
-</p>
+## 🚀 Skills & Interests
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **💻 Programming Languages:** C, C++, Python, Java, HTML, CSS, JavaScript  
+- **📚 Frameworks/Libraries:** React, Node.js, Express.js, Bootstrap  
+- **🗄️ Databases:** MongoDB, Firebase  
+- **🧠 Academic Interests:** Data Structures, OOP, DBMS, Operating Systems  
+- **🛠️ Developer Tools:** Git/GitHub, VS Code, Postman  
+- **📜 Certifications:** Java (Swayam NPTEL), Communication & Teamwork, Computer Science 101 (edX)  
+- **🎯 Interests:** Web Development, Full Stack Projects, Problem-Solving, Hackathons, Reading Productivity Books  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyshnavi-kamireddy&show_icons=true&locale=en&layout=compact" alt="vyshnavi-kamireddy" /></p>
+---
+
+
+## 🏆 Projects
+
+### 👨‍🍳 Chef Claude – Personalized Recipe Finder  
+- React-based app that gives recipe suggestions from ingredients  
+- Used **useState**, **props**, and **API integration** for dynamic real-time results  
+- 🔗 [Project Link](https://github.com/vyshnavi-kamireddy/Chef-Claude)
+
+### 🎲 Tenzies Game  
+- Fun React-based dice game with win/loss tracking and game logic  
+- Focused on **state management**, **component-based architecture**  
+- 🔗 [Project Link](https://github.com/vyshnavi-kamireddy/Tenzies-Game)
+
+### 🧮 Web Calculator  
+- Built with HTML, CSS & JavaScript to perform **basic operations**  
+- Responsive layout with **CSS Grid** and efficient event handling  
+- 🔗 [Project Link](https://github.com/vyshnavi-kamireddy/OIBSIP/tree/main/TASK%201%20CALCULATOR)
+
+### ✊ Rock-Paper-Scissors Game  
+- Web-based interactive game with score tracking and autoplay  
+- Focused on **frontend dynamics** and **game logic**  
+- 🔗 [Project Link](https://github.com/vyshnavi-kamireddy/Rock-Paper-Scissors-Game)
+
+### ✅ Task Management App  
+- Web app that helps users add, edit, delete, and mark tasks as complete  
+- Includes **Pending Tasks** and **Completed Tasks** sections, plus **due dates**  
+- Built using **HTML, CSS, JavaScript**  
+- 🔗 [Project Link](https://github.com/vyshnavi-kamireddy/OIBSIP/tree/main/TASK%203%20TODO)
+
+---
+
+## 🎯 Extra Curriculars  
+- Active participant in **hackathons** and tech events  
+- Love for **badminton** and **squash** 🏸  
+- Constantly learning from books like *Atomic Habits* 📚
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 **Email:** vyshnavikamireddy@gmail.com  
+- 💼 **LinkedIn:** [Vyshnavi Kamireddy](https://www.linkedin.com/in/vyshnavi-kamireddy)  
+- 🏗️ **GitHub:** [vyshnavi-kamireddy](https://github.com/vyshnavi-kamireddy)  
+
+---
+
+## 💡 Feedback is Always Welcome!  
+I'm always open to **constructive feedback**, **collaborations**, and **new opportunities**. Let’s build something amazing together! 🚀
