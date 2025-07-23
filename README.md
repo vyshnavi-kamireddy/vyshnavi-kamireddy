@@ -1,17 +1,17 @@
 # 👋 Hi, I'm **Vyshnavi Kamireddy**
 
 ## 📌 About Me  
-Hey there! I'm **Vyshnavi**, a **second-year Computer Science student** at **Vishnu Institute of Technology**, focused on **solving problems, building projects**, and constantly **learning new technologies**. I’m passionate about turning ideas into code and enjoy exploring both **frontend and backend development**. Let's connect and collaborate!
+Hey there! I'm **Vyshnavi**, a **third-year Computer Science student** at **Vishnu Institute of Technology**, focused on **solving problems, building projects**, and constantly **learning new technologies**. I’m passionate about turning ideas into code and enjoy exploring both **frontend and backend development**. Let's connect and collaborate!
 
 ---
 
 ## 🚀 Skills & Interests
 
 - **💻 Programming Languages:** C, C++, Python, Java, HTML, CSS, JavaScript  
-- **📚 Frameworks/Libraries:** React, Node.js, Express.js, Bootstrap  
+- **📚 Frameworks/Libraries:** React, Node.js, Express.js, Bootstrap, TailwindCss
 - **🗄️ Databases:** MongoDB, Firebase  
 - **🧠 Academic Interests:** Data Structures, OOP, DBMS, Operating Systems  
-- **🛠️ Developer Tools:** Git/GitHub, VS Code, Postman  
+- **🛠️ Developer Tools:** Git/GitHub, VS Code, Postman, Figma
 - **📜 Certifications:** Java (Swayam NPTEL), Communication & Teamwork, Computer Science 101 (edX)  
 - **🎯 Interests:** Web Development, Full Stack Projects, Problem-Solving, Hackathons, Reading Productivity Books  
 
